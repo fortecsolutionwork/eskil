@@ -1,0 +1,202 @@
+@media screen and (max-width: 1024px) { 
+    header .nav-link {
+        font-size: 14px;
+    }
+    .about-mc {
+        height: 68vh;
+    }
+    .about-mc-rght .ml-1 {
+        top: 73%;
+        left: 5%;
+        width: 4vw;
+    }
+    .about-mc-rght .ml-3 {
+        left: 0%;
+        width: 7vw;
+    }
+    .about-mc-rght .ml-4 {
+        left: 5%;
+        width: 10vw;
+        z-index: 0;
+    }
+    .about-mc-rght .ml-5 {
+        left: 13%;
+        width: 4vw;
+        top: 73%;
+    }
+    .about-mc-rght .ml-6 {
+        width: 7vw;
+    }
+    .about-mc-rght .ml-8 {
+        width: 8vw;
+        top: 10%;
+        left: 33%;
+    }
+    .about-mc-rght .ml-9 {
+        width: 10vw;
+    }
+    .gimmicky {
+        height: 68vh;
+    }
+    .Join-gh {
+        height: 68vh;
+    }
+}
+
+@media screen and (max-width: 768px) { 
+    .navbar-nav {
+        background: #fff;
+        text-align: center;
+        margin-top: 15px;
+        padding-top: 15px;
+        padding-bottom: 5px;
+    }
+    .home-banner {
+        height: 62vh;
+    }
+    .home-banner-rght img {
+        height: 375px;
+    }
+    .about-mc {
+        height: 52vh;
+    }
+    .about-mc2-lft .text {
+        margin-top: 82px;
+    }
+    .about-mc2-lft .logo-anthr img {
+        width: 320px;
+    }
+    .about-mc2-rght .image img {
+        width: 20vw;
+        margin-left: -20px;
+    }
+    .about-mc2-lft .text {
+        margin-top: 82px;
+    }
+    .gimmicky {
+        height: 55vh;
+    }
+    .gimmicky-rght .image img {
+        width: 20vw;
+        margin-right: 15px;
+    }
+    .Join-gh {
+        height: 52vh;
+    }
+    .Join-gh-rght .image img {
+        width: 20vw;
+        margin-right: 15px;
+    }
+    footer img {
+        width: 110px;
+    }
+    
+}
+
+@media screen and (max-width: 480px) { 
+    
+    .home-banner-lft .image img {
+        width: 295px;
+    }
+    h1 {
+        font-size: 5vw;
+    }
+    .home-banner-lft .image2 {
+        bottom: 5px;
+    }
+    .home-banner-lft .image2 img{
+        width: 15px;
+    }
+    .home-banner {
+        height: 100vh;
+    }
+    .home-banner-lft .image {
+        margin-top: 45px;
+    }
+    .about-mc {
+        height: 100vh;
+        padding: 0 10px;
+        margin-top: 20px;
+    }
+    h6 {
+        font-size: 4.3vw;
+    }
+    .about-mc-rght .ml-1 {
+        top: 80%;
+        left: 42%;
+        width: 8vw;
+    }
+    .about-mc-rght .ml-3 {
+        left: 15%;
+        width: 15vw;
+    }
+    .about-mc-rght .ml-4 {
+        left: 48%;
+        width: 12vw;
+        top: 79%;
+    }
+    .about-mc-rght .ml-5 {
+        left: 18%;
+        width: 8vw;
+        top: 80%;
+    }
+    .about-mc-rght .ml-6 {
+        width: 13vw;
+    }
+    .about-mc-rght .ml-7 {
+        top: 27%;
+        left: 33%;
+        width: 35vw;
+    }
+    .about-mc-rght .ml-8 {
+        width: 13vw;
+        top: 4%;
+        left: 42%;
+    }
+    .about-mc-rght .ml-9 {
+        bottom: 9%;
+        right: 24%;
+        width: 12vw;
+    }
+    .about-mc2-lft {
+        align-items: unset;
+        padding: 30px;
+    }
+    .about-mc2-lft .video img {
+        width: 100%;
+    }
+    .about-mc2-rght {
+        padding: 35px;
+    }
+    .about-mc2 {
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+    .about-mc2-rght .image img {
+        width: 40vw;
+    }
+    .gimmicky-rght .image img {
+        width: 40vw;
+    }
+    .gimmicky {
+        height: 100vh;
+    }
+    .gimmicky .text {
+        margin-top: 20px;
+    }
+    .Join-gh-rght .image img {
+        width: 40vw;
+    }
+    .Join-gh {
+        height: 70vh;
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+    .footer-cl {
+        margin-bottom: 50px !important;
+    }
+}
+
+
+
+
