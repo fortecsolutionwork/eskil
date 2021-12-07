@@ -6,13 +6,34 @@
     position: relative;
     height: 100vh;
 }
+.about-mc-rght .ml-1 {
+    left: 3%;
+    top: 68%;
+}
+.about-mc-rght .ml-4 {
+    top: 80%;
+}
+.about-mc-rght .ml-5 {
+    left: 12%;
+    top: 68%;
+}
+.about-mc-rght .ml-9 {
+    bottom: 14%;
+}
 .gimmicky {
     height: 100vh;
+}
+.signup-rw {
+    margin-top: 95px;
 }
 }
 @media screen and (max-width: 1024px) { 
     header .nav-link {
         font-size: 14px;
+    }
+    .signup-rw {
+        margin-top: 145px;
+        padding-bottom: 70px;
     }
     .about-mc {
         height: 68vh;
@@ -60,17 +81,45 @@
         background: #fff;
         text-align: center;
         margin-top: 15px;
-        padding-top: 15px;
-        padding-bottom: 5px;
+        padding-top: 40px;
+        padding-bottom: 40px;
+    }
+    header .nav-item {
+        padding-bottom: 10px;
+        padding-top: 10px;
     }
     .home-banner {
-        height: 62vh;
+    height: 100vh;
+}
+    .dp-img3, .dp-img4 {
+        width: 120px;
+    }
+    .dp-img6 {
+        width: 260px;
+    }
+    .dp-img1 {
+        width: 70px;
+    }
+    .dp-img2 {
+        width: 100px;
+    }
+    h6 {
+        font-size: 2.2vw;
+    }
+    .signup-cl1 {
+        padding: 30px;
+    }
+    .signup-cl1 .btn.btn-primary {
+        padding: 6px 38px;
     }
     .home-banner-rght img {
         height: 375px;
     }
+    .signup-sc {
+        height: unset;
+    }
     .about-mc {
-        height: 52vh;
+        height: 70vh;
     }
     .about-mc2-lft .text {
         margin-top: 82px;
@@ -86,7 +135,7 @@
         margin-top: 82px;
     }
     .gimmicky {
-        height: 55vh;
+        height: 100vh;
     }
     .gimmicky-rght .image img {
         width: 20vw;
@@ -110,8 +159,32 @@
     .home-banner-lft .image img {
         width: 295px;
     }
+    .home-banner {
+        height: 150vh;
+    }
+    .about-mc-lft .image {
+        margin-bottom: -30px;
+    }
+    .m-cntxt-bnnr .img-abt {
+        margin-top: 0;
+    }
     h1 {
         font-size: 5vw;
+    }
+    .navbar-brand img {
+        width: 120px;
+    }
+    .hdr-rght .nav-item {
+        top: 12px;
+    }
+    .signup-rw {
+        margin-top: 85px;
+    }
+    .signup-cl1 {
+        border-radius: 0;
+    }
+    .signup-cl2 {
+        margin-top: 40px;
     }
     .home-banner-lft .image2 {
         bottom: 5px;
@@ -119,14 +192,11 @@
     .home-banner-lft .image2 img{
         width: 15px;
     }
-    .home-banner {
-        height: 100vh;
-    }
     .home-banner-lft .image {
         margin-top: 45px;
     }
     .about-mc {
-        height: 100vh;
+        height: 160vh;
         padding: 0 10px;
         margin-top: 20px;
     }
@@ -191,7 +261,7 @@
         width: 40vw;
     }
     .gimmicky {
-        height: 100vh;
+        height: 150vh;
     }
     .gimmicky .text {
         margin-top: 20px;
@@ -200,7 +270,7 @@
         width: 40vw;
     }
     .Join-gh {
-        height: 70vh;
+        height: 100vh;
         margin-top: 20px;
         margin-bottom: 20px;
     }
