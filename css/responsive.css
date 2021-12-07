@@ -1,3 +1,18 @@
+@media screen and (max-width: 1366px) { 
+.home-banner {
+    height: 100vh;
+}
+.about-mc {
+    position: relative;
+    height: 100vh;
+}
+.about-mc2 {
+    height: 100vh;
+}
+.gimmicky {
+    height: 100vh;
+}
+}
 @media screen and (max-width: 1024px) { 
     header .nav-link {
         font-size: 14px;
